@@ -1,6 +1,3 @@
-<p align="center">
-  <img  src=".github/Cover.png" alt="Demonstração do projeto" width="100%">
-</p>
 
 ## 💻 Desafio Stage 2
 
